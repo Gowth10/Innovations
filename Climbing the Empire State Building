@@ -1,4 +1,4 @@
-# Numpy is imported; seed is set
+# Numpy is imported; seed is set, matplotlib pyplot is imported
 
 # Initialize all_walks 
 all_walks = []
